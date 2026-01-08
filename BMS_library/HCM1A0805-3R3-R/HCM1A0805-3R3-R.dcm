@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HCM1A0805-3R3-R
+D Inductor Power Shielded Wirewound 3.3uH/2.1uH 20% 100KHz Powdered Iron 8A 0.01Ohm DCR Automotive T/R
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-hcm1a0805-automotive-power-inductors-data-sheet.pdf
+$ENDCMP
+#
+#End Doc Library
