@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMK316BBJ226ML-T
+D Capacitor MLCC 1206 X5R 25V 22uF Taiyo Yuden 22uF Multilayer Ceramic Capacitor (MLCC) 25 V dc +/-20% X5R dielectric M Solder max op. temp. +85C
+K
+F https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=MSAST31LBB5226MTNA01
+$ENDCMP
+#
+#End Doc Library

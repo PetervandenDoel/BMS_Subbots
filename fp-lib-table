@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HCM1A0805-3R3-R")(type "KiCad")(uri "${KIPRJMOD}/BMS_library/HCM1A0805-3R3-R/HCM1A0805-3R3-R.pretty")(options "")(descr "FIXED IND 3.3UH 8A 10 MOHM SMD"))
+  (lib (name "TMK316BBJ226ML-T")(type "KiCad")(uri "${KIPRJMOD}/BMS_library/TMK316BBJ226ML-T/TMK316BBJ226ML-T.pretty")(options "")(descr "CAP CER 22UF 25V X5R 1206"))
+  (lib (name "EMK325ABJ107MM-P")(type "KiCad")(uri "${KIPRJMOD}/BMS_library/EMK325ABJ107MM-P/EMK325ABJ107MM-P.pretty")(options "")(descr "CAP CER 100UF 16V X5R 1210"))
+)
