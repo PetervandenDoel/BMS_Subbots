@@ -2887,6 +2887,17 @@
 		)
 		(uuid "432c28f7-ef2b-4a67-a3c3-22823a5810df")
 	)
+	(text "TODO: Change this ground to GND1 (battery negative terminal) so that\nthe nordic won't shut off in the event of an overcurrent."
+		(exclude_from_sim no)
+		(at 44.45 65.278 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "48c2d297-5823-4414-8ba8-679f802fbeab")
+	)
 	(text "This node is the ground\nfor the rest of the sub \nand power ground for the regulators \n"
 		(exclude_from_sim no)
 		(at 164.084 121.412 0)
