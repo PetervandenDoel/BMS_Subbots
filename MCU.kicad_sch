@@ -1344,6 +1344,17 @@
 		)
 		(uuid "1ce8614c-05b6-4b3c-8252-fc3cef2eb692")
 	)
+	(hierarchical_label "EN9_B"
+		(shape input)
+		(at 167.64 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4430e378-b699-4ba9-b547-5446f283da7c")
+	)
 	(hierarchical_label "NRESET"
 		(shape input)
 		(at 111.76 63.5 180)
@@ -1355,7 +1366,7 @@
 		)
 		(uuid "44d06dae-774c-4202-9597-3085d885326e")
 	)
-	(hierarchical_label "EN5"
+	(hierarchical_label "EN5_A"
 		(shape input)
 		(at 172.72 96.52 0)
 		(effects
@@ -1366,7 +1377,18 @@
 		)
 		(uuid "4a4b1ed3-d5b6-4739-92b0-78048e46b163")
 	)
-	(hierarchical_label "EN12"
+	(hierarchical_label "EN5_B"
+		(shape input)
+		(at 167.64 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "510e5553-7a3e-4088-aede-876c65ec5f3f")
+	)
+	(hierarchical_label "EN12_A"
 		(shape input)
 		(at 172.72 101.6 0)
 		(effects
@@ -1388,7 +1410,40 @@
 		)
 		(uuid "6662e045-00e8-414e-841d-3845a7c4b4d6")
 	)
-	(hierarchical_label "PGOOD9"
+	(hierarchical_label "EN12_B"
+		(shape input)
+		(at 167.64 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "67f94f74-e4ca-4670-b4fa-56086bb5e843")
+	)
+	(hierarchical_label "PGOOD9_B"
+		(shape input)
+		(at 167.64 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "771dfd12-5593-4c61-b52d-6dae7fded01b")
+	)
+	(hierarchical_label "PGOOD12_B"
+		(shape input)
+		(at 167.64 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a0b144e-e218-4626-a42f-4f35850288b5")
+	)
+	(hierarchical_label "PGOOD9_A"
 		(shape input)
 		(at 172.72 91.44 0)
 		(effects
@@ -1399,7 +1454,7 @@
 		)
 		(uuid "811240c5-144c-4d8b-82df-e84a8d4bf5f4")
 	)
-	(hierarchical_label "EN9"
+	(hierarchical_label "EN9_A"
 		(shape input)
 		(at 172.72 99.06 0)
 		(effects
@@ -1465,7 +1520,7 @@
 		)
 		(uuid "afec9a48-2d37-4b76-8272-3e55c4c39820")
 	)
-	(hierarchical_label "PGOOD12"
+	(hierarchical_label "PGOOD12_A"
 		(shape input)
 		(at 172.72 93.98 0)
 		(effects
@@ -1476,7 +1531,7 @@
 		)
 		(uuid "b6baa67b-e125-4b7c-8d8f-898062e158d4")
 	)
-	(hierarchical_label "PGOOD5"
+	(hierarchical_label "PGOOD5_A"
 		(shape input)
 		(at 172.72 88.9 0)
 		(effects
@@ -1486,6 +1541,17 @@
 			(justify left)
 		)
 		(uuid "bd3c84d7-87fc-45b6-9372-cdeda5756f89")
+	)
+	(hierarchical_label "PGOOD5_B"
+		(shape input)
+		(at 167.64 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce434d99-6dc8-41e5-a908-1f01ca1d7c58")
 	)
 	(symbol
 		(lib_id "Device:R")
