@@ -2837,6 +2837,16 @@
 		)
 		(uuid "0db185d5-8316-40b3-94ac-880f684485a5")
 	)
+	(text "Note: for 2oz copper and a 20cm temperature rise we can have 2cm thick pours, lets do that"
+		(exclude_from_sim no)
+		(at 219.964 169.672 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "1e131b7e-7e0f-4e91-85b0-bd65adc1dc10")
+	)
 	(text "TODO: Separate connectors based on regs\n"
 		(exclude_from_sim no)
 		(at 72.898 83.058 0)
